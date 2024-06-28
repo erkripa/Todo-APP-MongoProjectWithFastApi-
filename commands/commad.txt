@@ -1,0 +1,9 @@
+create a virtual environment
+- python -m venv env 
+//run this command if error occured while 
+1.env\Scripts\activate
+2.Set-ExecutionPolicy Unrestricted -Scope Process
+
+pip install fastapi
+pip install uvicorn
+pip install "pymongo[srv]"
