@@ -4,6 +4,7 @@ create a virtual environment
 1.env\Scripts\activate
 2.Set-ExecutionPolicy Unrestricted -Scope Process
 
+//Install Fast Api
 pip install fastapi
 pip install uvicorn
 pip install "pymongo[srv]"
